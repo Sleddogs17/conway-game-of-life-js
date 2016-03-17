@@ -37,7 +37,7 @@ var GameOfLife = function(params){
       //  on the rules of the Game of Life
       nextGenCells = function() {
         // Implement the Game of Life rules
-        // Simple algorithm:
+        // Simple algorithm: xxmlgfazeMemester9000RektumEdgeTumblr
         //  - For each cell:
         //      - Check all of its neighbours
         //      - Based on the rules, set the next gen cell to alive or dead
